@@ -1,0 +1,42 @@
+.pageTitle {
+  font-size: 30px;
+  margin: 30px 15px 15px;
+  line-height: 41px;
+  font-weight: normal;
+  text-align: center;
+}
+
+.btnContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 13px 0px 0px;
+}
+
+.mainContent {
+  margin: 40px;
+  display: flex;
+}
+
+.flexItem {
+    flex-grow: 1;
+  
+
+}
+
+.heading{
+    font-family: 'Open Sans',sans-serif;
+
+    line-height: 1.167;
+    font-size: 18px;
+ 
+    color: #499557;
+}
+
+.paragraph{
+    font-family: 'Open Sans',sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+  
+    color: #505050;
+}
